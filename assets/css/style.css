@@ -2901,6 +2901,11 @@ div#about{
 /*  10. Testimonial CSS
 /*----------------------------------------*/
 /*-- Testimonial Slider Image --*/
+
+div#testimonios{
+  overflow-x:hidden;
+}
+
 .testimonial-slider-image {
   max-width: 300px;
   margin: auto;
@@ -5499,8 +5504,8 @@ strong, b {
 
 @media only screen and (max-width: 767px) {
     .clean{
-      top:45%;
-      left: 60%;
+      top: 100%;
+      left: 30%;
       }
 
   }
