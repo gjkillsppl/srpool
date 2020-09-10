@@ -381,7 +381,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     .section-title ul li a {
       font-size: 16px;
       line-height: 28px;
-      font-family: "Qanto";
+      font-family: "gobold";
       display: block; }
       .section-title ul li a:hover, .section-title ul li a.active {
         color: #006998; }
@@ -712,7 +712,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 0.5px;
-    font-family: "Qanto";
+    font-family: "gobold";
     line-height: 1;
     margin-top: 10px; }
     @media only screen and (max-width: 575px) {
@@ -1012,7 +1012,7 @@ header.header.header-static {
       line-height: 30px;
       display: block;
       padding: 30px 0;
-      font-family: "Qanto";
+      font-family: "gobold";
       color: #9f9f9f; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .header-right-wrap ul li a {
@@ -1216,7 +1216,7 @@ header.header.header-static {
       margin-bottom: 0; }
     .sub-menu li a {
       letter-spacing: 0.25px;
-      font-family: "Qanto";
+      font-family: "gobold";
       color: #151515;
       display: block;
       font-size: 14px;
@@ -1341,7 +1341,7 @@ header.header.header-static {
           .mobile-menu .mean-bar .mean-nav > ul li a {
             font-size: 13px;
             display: block;
-            font-family: "Qanto";
+            font-family: "gobold";
             color: white;
             font-weight: 600;
             text-transform: uppercase;
@@ -1454,7 +1454,7 @@ header.header.header-static {
   font-size: 17px;
   line-height: 28px;
   color: #b6b6b6;
-  font-family: "Qanto"; }
+  font-family: "gobold"; }
   @media only screen and (max-width: 767px) {
     .hero-slider .slick-arrow {
       bottom: 20px; } }
@@ -1995,7 +1995,7 @@ header.header.header-static {
         line-height: 45px;
         position: relative;
         display: inline-block;
-        font-family: "Qanto"; }
+        font-family: "gobold"; }
         @media only screen and (max-width: 767px) {
           .download-area.section .download-demo-content ul li a {
             font-size: 18px;
@@ -2274,7 +2274,7 @@ div#about{
   .featured-title a {
     font-size: 18px;
     line-height: 70px;
-    font-family: "Qanto";
+    font-family: "gobold";
     text-decoration: underline;
     margin-right: 60px; }
     @media only screen and (max-width: 767px) {
@@ -2567,7 +2567,7 @@ div#about{
       font-size: 20px;
       line-height: 28px;
       color: #ffffff;
-      font-family: "Qanto"; }
+      font-family: "gobold"; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .single-video-popup .video-img .video-content span {
           font-size: 14px; } }
@@ -2699,7 +2699,7 @@ div#about{
       font-size: 18px;
       line-height: 28px;
       color: #ffffff;
-      font-family: "Qanto"; }
+      font-family: "gobold"; }
       .single-video .video-img .video-content a i {
         margin-right: 5px;
         font-size: 18px; }
@@ -2720,7 +2720,7 @@ div#about{
   font-size: 17px;
   line-height: 28px;
   color: #b6b6b6;
-  font-family: "Qanto"; }
+  font-family: "gobold"; }
   .video-slider-active .slick-arrow i {
     font-size: 30px;
     line-height: 28px;
@@ -3072,7 +3072,7 @@ div#testimonios{
     font-size: 16px;
     line-height: 28px;
     color: #006998;
-    font-family: "Qanto";
+    font-family: "gobold";
     float: right; }
     @media only screen and (min-width: 1200px) and (max-width: 1499px) {
       .single-game .game-content span {
@@ -3233,7 +3233,7 @@ div#testimonios{
       font-size: 16px;
       line-height: 28px;
       color: #006998;
-      font-family: "Qanto"; }
+      font-family: "gobold"; }
       @media only screen and (min-width: 1200px) and (max-width: 1499px) {
         .upcoming-game-slider .single-upcoming-game .upcoming-game-content span {
           font-size: 14px; } }
@@ -3497,7 +3497,7 @@ div#testimonios{
         .ratting-wrap .rating-area .rating-review .single-rating .rating-star span {
           font-size: 18px;
           line-height: 28px;
-          font-family: "Qanto";
+          font-family: "gobold";
           color: #151515; }
         .ratting-wrap .rating-area .rating-review .single-rating .rating-star i {
           font-size: 18px;
@@ -3524,7 +3524,7 @@ div#testimonios{
           font-size: 20px;
           line-height: 28px;
           color: #151515;
-          font-family: "Qanto"; }
+          font-family: "gobold"; }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .review-wrap {
@@ -3597,7 +3597,7 @@ div#testimonios{
   font-size: 14px;
   line-height: 28px;
   color: #7c7c7c;
-  font-family: "Qanto"; }
+  font-family: "gobold"; }
   .review-wrap .reply-btn a:hover {
     color: #006998; }
   .review-wrap .reply-btn a i {
@@ -3634,7 +3634,7 @@ div#testimonios{
     font-size: 16px;
     line-height: 28px;
     color: #006998;
-    font-family: "Qanto";
+    font-family: "gobold";
     float: right; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .single-games-review .review-content span {
@@ -3773,7 +3773,7 @@ div#testimonios{
     opacity: 1;
     font-size: 17px;
     line-height: 28px;
-    font-family: "Qanto";
+    font-family: "gobold";
     width: 45px;
     height: 45px;
     line-height: 45px; }
@@ -3829,7 +3829,7 @@ div#testimonios{
       .single-blog-post .blog-content .blog-bottom a.read-btn {
         font-size: 16px;
         line-height: 24px;
-        font-family: "Qanto"; }
+        font-family: "gobold"; }
         .single-blog-post .blog-content .blog-bottom a.read-btn i {
           margin-left: 5px; }
     .single-blog-post .blog-content ul {
@@ -4087,7 +4087,7 @@ div#testimonios{
         font-size: 16px;
         line-height: 28px;
         color: #ffffff;
-        font-family: "Qanto";
+        font-family: "gobold";
         float: right; }
         @media only screen and (min-width: 1200px) and (max-width: 1499px) {
           .single-gallery .gallery-image .gallery-hover span {
@@ -4171,7 +4171,7 @@ div#testimonios{
       .single-forum .forum-meta ul li {
         font-size: 16px;
         line-height: 28px;
-        font-family: "Qanto";
+        font-family: "gobold";
         color: #7f7f7f;
         position: relative; }
         @media only screen and (max-width: 767px) {
@@ -4199,7 +4199,7 @@ div#testimonios{
     .single-forum .forum-meta span.view {
       font-size: 16px;
       line-height: 28px;
-      font-family: "Qanto";
+      font-family: "gobold";
       color: #7f7f7f; }
       @media only screen and (max-width: 767px) {
         .single-forum .forum-meta span.view {
@@ -4214,7 +4214,7 @@ div#testimonios{
     background-color: #006998;
     font-size: 14px;
     line-height: 30px;
-    font-family: "Qanto";
+    font-family: "gobold";
     color: #ffffff;
     text-align: center; }
 
@@ -4223,7 +4223,7 @@ div#testimonios{
   display: block;
   font-size: 24px;
   line-height: 28px;
-  font-family: "Qanto";
+  font-family: "gobold";
   margin-bottom: 15px; }
 
 .single-input input {
@@ -4265,7 +4265,7 @@ div#testimonios{
 .forum-post label, .forum-post .file-input button.save-btn, .file-input .forum-post button.save-btn {
   font-size: 20px;
   line-height: 28px;
-  font-family: "Qanto";
+  font-family: "gobold";
   margin-bottom: 0; }
 
 .forum-post button.df-btn {
@@ -4376,7 +4376,7 @@ div#testimonios{
     .forum-reply-wrap .forum-meta ul li {
       font-size: 16px;
       line-height: 28px;
-      font-family: "Qanto";
+      font-family: "gobold";
       color: #7f7f7f;
       position: relative; }
       @media only screen and (max-width: 767px) {
@@ -4406,7 +4406,7 @@ div#testimonios{
   .forum-reply-wrap .forum-meta span.view {
     font-size: 16px;
     line-height: 28px;
-    font-family: "Qanto";
+    font-family: "gobold";
     color: #7f7f7f; }
     @media only screen and (max-width: 767px) {
       .forum-reply-wrap .forum-meta span.view {
@@ -4438,7 +4438,7 @@ div#testimonios{
       display: block;
       font-size: 14px;
       line-height: 24px;
-      font-family: "Qanto"; }
+      font-family: "gobold"; }
       .forum-reply-wrap .viewer-action ul li a i {
         margin-right: 5px; }
 
@@ -4447,7 +4447,7 @@ div#testimonios{
   font-size: 14px;
   line-height: 18px;
   color: #7c7c7c;
-  font-family: "Qanto"; }
+  font-family: "gobold"; }
   .forum-reply-wrap .reply-btn a:hover {
     color: #006998; }
   .forum-reply-wrap .reply-btn a i {
@@ -4940,7 +4940,7 @@ div#testimonios{
     display: block;
     font-size: 18px;
     line-height: 28px;
-    font-family: "Qanto";
+    font-family: "gobold";
     color: #ffffff; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .single-sidebar-widget .single-featured-game .game-img a.game-title {
@@ -5023,7 +5023,7 @@ div#testimonios{
     font-size: 16px;
     line-height: 28px;
     color: #006998;
-    font-family: "Qanto";
+    font-family: "gobold";
     float: right; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .single-sidebar-widget .popular-game .game-content span {
@@ -5272,7 +5272,7 @@ s
   font-size: 20px;
   line-height: 28px;
   color: #ffffff;
-  font-family: "Qanto";
+  font-family: "gobold";
   margin-right: 30px; }
   @media only screen and (min-width: 1200px) and (max-width: 1499px) {
     .footer-social span {
