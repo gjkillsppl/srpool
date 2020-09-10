@@ -1342,6 +1342,7 @@ header.header.header-static {
             font-size: 13px;
             display: block;
             font-family: "gobold";
+            letter-spacing: .5px;
             color: white;
             font-weight: 600;
             text-transform: uppercase;
